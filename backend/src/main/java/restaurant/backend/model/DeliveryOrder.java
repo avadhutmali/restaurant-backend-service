@@ -1,0 +1,8 @@
+package restaurant.backend.model;
+
+import jakarta.persistence.Entity;
+
+@Entity
+public class DeliveryOrder {
+    
+}
